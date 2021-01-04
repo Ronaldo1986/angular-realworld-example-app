@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://localhost:4200",
+    "pageLoadtimeout": 30000,
+    "defaultCommandTimeout": 30000,
+    "viewPortHeight": 800,
+    "viewPortWidth": 500,
+    "retries": 3
+}
